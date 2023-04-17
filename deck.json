@@ -42,6 +42,23 @@
         {
             "__type__": "Deck",
             "children": [],
+            "crowdanki_uuid": "a436b946-dd0d-11ed-9ddc-898c115d6cf8",
+            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "GAD",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
             "crowdanki_uuid": "21c68b45-da24-11ed-a47b-b06ebf5f6a21",
             "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
             "desc": "",
@@ -114,6 +131,40 @@
                     "tags": []
                 }
             ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "a4374d70-dd0d-11ed-9ddc-898c115d6cf8",
+            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "LINA",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "a4377746-dd0d-11ed-9ddc-898c115d6cf8",
+            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "THEO",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
             "reviewLimit": null,
             "reviewLimitToday": null
         }
