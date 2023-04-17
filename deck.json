@@ -18,20 +18,10 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "abcdefg",
-                        "teststeestsetset"
+                        "DWT Frage",
+                        "DWT Antwort"
                     ],
                     "guid": "i7kW*sVA=4",
-                    "note_model_uuid": "21c68b3f-da24-11ed-b04c-b06ebf5f6a21",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "asdfasdfa",
-                        "324234234"
-                    ],
-                    "guid": "MEtD81mUop",
                     "note_model_uuid": "21c68b3f-da24-11ed-b04c-b06ebf5f6a21",
                     "tags": []
                 }
@@ -52,7 +42,18 @@
             "name": "GAD",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "GAD Frage",
+                        "GAD Antwort"
+                    ],
+                    "guid": "hr3ZX~nK=O",
+                    "note_model_uuid": "21c68b3f-da24-11ed-b04c-b06ebf5f6a21",
+                    "tags": []
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         },
@@ -73,60 +74,10 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "q1",
-                        "a1"
+                        "GRNVS Frage",
+                        "GRNVS Antwort"
                     ],
                     "guid": "l~l!`7Mz[-",
-                    "note_model_uuid": "21c68b3f-da24-11ed-b04c-b06ebf5f6a21",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "q2",
-                        "a2"
-                    ],
-                    "guid": "h.Mb48$5R[",
-                    "note_model_uuid": "21c68b3f-da24-11ed-b04c-b06ebf5f6a21",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "q3",
-                        "a3"
-                    ],
-                    "guid": "PQDmOG,onV",
-                    "note_model_uuid": "21c68b3f-da24-11ed-b04c-b06ebf5f6a21",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "q4",
-                        "a4"
-                    ],
-                    "guid": "hvJmKZtLg~",
-                    "note_model_uuid": "21c68b3f-da24-11ed-b04c-b06ebf5f6a21",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "q5",
-                        "a5"
-                    ],
-                    "guid": "dhft{~%dL;",
-                    "note_model_uuid": "21c68b3f-da24-11ed-b04c-b06ebf5f6a21",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "q6",
-                        "a6"
-                    ],
-                    "guid": "mz]}q3(K^+",
                     "note_model_uuid": "21c68b3f-da24-11ed-b04c-b06ebf5f6a21",
                     "tags": []
                 }
@@ -147,7 +98,18 @@
             "name": "LINA",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Lina Frage",
+                        "Lina Antwort"
+                    ],
+                    "guid": "v5`r0C]#Sd",
+                    "note_model_uuid": "21c68b3f-da24-11ed-b04c-b06ebf5f6a21",
+                    "tags": []
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         },
@@ -164,7 +126,18 @@
             "name": "THEO",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Theo Frage",
+                        "Theo Antwort"
+                    ],
+                    "guid": "cB9572RPJ~",
+                    "note_model_uuid": "21c68b3f-da24-11ed-b04c-b06ebf5f6a21",
+                    "tags": []
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         }
