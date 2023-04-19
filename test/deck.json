@@ -1,0 +1,162 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "03919e50-defe-11ed-ad12-cdbbfeeb5511",
+    "deck_config_uuid": "0391a24c-defe-11ed-ad12-cdbbfeeb5511",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "0391a24c-defe-11ed-ad12-cdbbfeeb5511",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 1",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 100
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 500
+            },
+            "reviewOrder": 2,
+            "timer": 1
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "test",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "16d9cf54-dd6f-11ed-bb58-3b6d3ce90129",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic (and reversed card)-225d6",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "stsd",
+                ""
+            ],
+            "guid": "AKzp;aPaw_",
+            "note_model_uuid": "16d9cf54-dd6f-11ed-bb58-3b6d3ce90129",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
