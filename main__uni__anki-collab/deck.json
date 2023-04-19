@@ -8,7 +8,7 @@
                     "__type__": "Deck",
                     "children": [],
                     "crowdanki_uuid": "26779da6-ddf1-11ed-9f99-4dc924e8ba13",
-                    "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                    "deck_config_uuid": "f7136eb6-defc-11ed-9f30-d9757c61dd44",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -146,7 +146,7 @@
                     "__type__": "Deck",
                     "children": [],
                     "crowdanki_uuid": "2677f940-ddf1-11ed-9f99-4dc924e8ba13",
-                    "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                    "deck_config_uuid": "f713be20-defc-11ed-9f30-d9757c61dd44",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -163,7 +163,7 @@
                     "__type__": "Deck",
                     "children": [],
                     "crowdanki_uuid": "26782960-ddf1-11ed-9f99-4dc924e8ba13",
-                    "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                    "deck_config_uuid": "f713f0b6-defc-11ed-9f30-d9757c61dd44",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -178,7 +178,7 @@
                 }
             ],
             "crowdanki_uuid": "2677694e-ddf1-11ed-9f99-4dc924e8ba13",
-            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+            "deck_config_uuid": "f713424c-defc-11ed-9f30-d9757c61dd44",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -195,7 +195,7 @@
             "__type__": "Deck",
             "children": [],
             "crowdanki_uuid": "21c66451-da24-11ed-86cd-b06ebf5f6a21",
-            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+            "deck_config_uuid": "f7142130-defc-11ed-9f30-d9757c61dd44",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -226,7 +226,7 @@
                     "__type__": "Deck",
                     "children": [],
                     "crowdanki_uuid": "557d8c9e-defc-11ed-82cd-61903f2f4ebb",
-                    "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                    "deck_config_uuid": "f71499b2-defc-11ed-9f30-d9757c61dd44",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -312,7 +312,7 @@
                     "__type__": "Deck",
                     "children": [],
                     "crowdanki_uuid": "557de23e-defc-11ed-82cd-61903f2f4ebb",
-                    "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                    "deck_config_uuid": "f714cf36-defc-11ed-9f30-d9757c61dd44",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -329,7 +329,7 @@
                     "__type__": "Deck",
                     "children": [],
                     "crowdanki_uuid": "557e14ac-defc-11ed-82cd-61903f2f4ebb",
-                    "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                    "deck_config_uuid": "f714f920-defc-11ed-9f30-d9757c61dd44",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -346,7 +346,7 @@
                     "__type__": "Deck",
                     "children": [],
                     "crowdanki_uuid": "557e4882-defc-11ed-82cd-61903f2f4ebb",
-                    "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                    "deck_config_uuid": "f715463c-defc-11ed-9f30-d9757c61dd44",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -363,7 +363,7 @@
                     "__type__": "Deck",
                     "children": [],
                     "crowdanki_uuid": "557e7b5e-defc-11ed-82cd-61903f2f4ebb",
-                    "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                    "deck_config_uuid": "f7157422-defc-11ed-9f30-d9757c61dd44",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -380,7 +380,7 @@
                     "__type__": "Deck",
                     "children": [],
                     "crowdanki_uuid": "557eadea-defc-11ed-82cd-61903f2f4ebb",
-                    "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                    "deck_config_uuid": "f7159d08-defc-11ed-9f30-d9757c61dd44",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -397,7 +397,7 @@
                     "__type__": "Deck",
                     "children": [],
                     "crowdanki_uuid": "557edc34-defc-11ed-82cd-61903f2f4ebb",
-                    "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                    "deck_config_uuid": "f715c580-defc-11ed-9f30-d9757c61dd44",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -414,7 +414,7 @@
                     "__type__": "Deck",
                     "children": [],
                     "crowdanki_uuid": "557f0c86-defc-11ed-82cd-61903f2f4ebb",
-                    "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                    "deck_config_uuid": "f715ed94-defc-11ed-9f30-d9757c61dd44",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -431,7 +431,7 @@
                     "__type__": "Deck",
                     "children": [],
                     "crowdanki_uuid": "557f3eb8-defc-11ed-82cd-61903f2f4ebb",
-                    "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                    "deck_config_uuid": "f716186e-defc-11ed-9f30-d9757c61dd44",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -446,7 +446,7 @@
                 }
             ],
             "crowdanki_uuid": "a436b946-dd0d-11ed-9ddc-898c115d6cf8",
-            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+            "deck_config_uuid": "f71463ca-defc-11ed-9f30-d9757c61dd44",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -455,7 +455,18 @@
             "name": "GAD",
             "newLimit": null,
             "newLimitToday": null,
-            "notes": [],
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "GAD Frage",
+                        "GAD Antwort"
+                    ],
+                    "guid": "hr3ZX~nK=O",
+                    "note_model_uuid": "21c68b3f-da24-11ed-b04c-b06ebf5f6a21",
+                    "tags": []
+                }
+            ],
             "reviewLimit": null,
             "reviewLimitToday": null
         },
@@ -466,7 +477,7 @@
                     "__type__": "Deck",
                     "children": [],
                     "crowdanki_uuid": "07b52668-dd6f-11ed-bb58-3b6d3ce90129",
-                    "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                    "deck_config_uuid": "f7167804-defc-11ed-9f30-d9757c61dd44",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -792,7 +803,7 @@
                             "__type__": "Deck",
                             "children": [],
                             "crowdanki_uuid": "07b73980-dd6f-11ed-bb58-3b6d3ce90129",
-                            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                            "deck_config_uuid": "f71724d4-defc-11ed-9f30-d9757c61dd44",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
@@ -1863,7 +1874,7 @@
                             "__type__": "Deck",
                             "children": [],
                             "crowdanki_uuid": "07b9e5b8-dd6f-11ed-bb58-3b6d3ce90129",
-                            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                            "deck_config_uuid": "f71811e6-defc-11ed-9f30-d9757c61dd44",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
@@ -2777,7 +2788,7 @@
                             "__type__": "Deck",
                             "children": [],
                             "crowdanki_uuid": "07bbbcf8-dd6f-11ed-bb58-3b6d3ce90129",
-                            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                            "deck_config_uuid": "f718cc44-defc-11ed-9f30-d9757c61dd44",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
@@ -3623,7 +3634,7 @@
                             "__type__": "Deck",
                             "children": [],
                             "crowdanki_uuid": "07bcb158-dd6f-11ed-bb58-3b6d3ce90129",
-                            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                            "deck_config_uuid": "f719916a-defc-11ed-9f30-d9757c61dd44",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
@@ -4860,7 +4871,7 @@
                             "__type__": "Deck",
                             "children": [],
                             "crowdanki_uuid": "07bda770-dd6f-11ed-bb58-3b6d3ce90129",
-                            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                            "deck_config_uuid": "f71a9448-defc-11ed-9f30-d9757c61dd44",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
@@ -6592,7 +6603,7 @@
                             "__type__": "Deck",
                             "children": [],
                             "crowdanki_uuid": "07bef67a-dd6f-11ed-bb58-3b6d3ce90129",
-                            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                            "deck_config_uuid": "f71bd10a-defc-11ed-9f30-d9757c61dd44",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
@@ -7236,7 +7247,7 @@
                         }
                     ],
                     "crowdanki_uuid": "07b6aa38-dd6f-11ed-bb58-3b6d3ce90129",
-                    "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                    "deck_config_uuid": "f716f5b8-defc-11ed-9f30-d9757c61dd44",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -7251,7 +7262,7 @@
                 }
             ],
             "crowdanki_uuid": "07b45986-dd6f-11ed-bb58-3b6d3ce90129",
-            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+            "deck_config_uuid": "f71646c2-defc-11ed-9f30-d9757c61dd44",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -7272,7 +7283,7 @@
                     "__type__": "Deck",
                     "children": [],
                     "crowdanki_uuid": "a1d5655e-ddf2-11ed-be74-d58c537a5478",
-                    "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                    "deck_config_uuid": "f71cac60-defc-11ed-9f30-d9757c61dd44",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -9283,7 +9294,7 @@
                 }
             ],
             "crowdanki_uuid": "a4374d70-dd0d-11ed-9ddc-898c115d6cf8",
-            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+            "deck_config_uuid": "f71c7402-defc-11ed-9f30-d9757c61dd44",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -9314,7 +9325,7 @@
                     "__type__": "Deck",
                     "children": [],
                     "crowdanki_uuid": "16d94f5c-dd6f-11ed-bb58-3b6d3ce90129",
-                    "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                    "deck_config_uuid": "f71e5952-defc-11ed-9f30-d9757c61dd44",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -9545,26 +9556,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Sind u und v W ̈orter, so ist uv",
-                                "Konkatenation"
-                            ],
-                            "guid": "eWD$]j{DGB",
-                            "note_model_uuid": "21c68b3f-da24-11ed-b04c-b06ebf5f6a21",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Ist w ein Wort, so ist w<sup>n</sup>&nbsp;definiert durch",
-                                "w<sup>0</sup>&nbsp;= e und w<sup>n+1</sup> = ww<sup>n</sup>. Bsp: (ab)<sup>3</sup> = ababab"
-                            ],
-                            "guid": "e8pbm-2)L.",
-                            "note_model_uuid": "21c68b3f-da24-11ed-b04c-b06ebf5f6a21",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Σ<sup>∗</sup>",
                                 "die Menge aller W ̈orter  ̈uber Σ"
                             ],
@@ -9580,26 +9571,6 @@
                             ],
                             "guid": "l@0cf;v7Bt",
                             "note_model_uuid": "16d9cf54-dd6f-11ed-bb58-3b6d3ce90129",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Ist die Menge aller Wörter im Duden eine formale Sprache?",
-                                "Ja"
-                            ],
-                            "guid": "J=Lwa8,ww8",
-                            "note_model_uuid": "21c68b3f-da24-11ed-b04c-b06ebf5f6a21",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Ist die Menge der deutschen Sätze eine formale Sprache?",
-                                "Nein"
-                            ],
-                            "guid": "hG17*hgorz",
-                            "note_model_uuid": "21c68b3f-da24-11ed-b04c-b06ebf5f6a21",
                             "tags": []
                         },
                         {
@@ -10632,6 +10603,46 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "Sind u und v W ̈orter, so ist uv",
+                                "Konkatenation"
+                            ],
+                            "guid": "eWD$]j{DGB",
+                            "note_model_uuid": "21c68b3f-da24-11ed-b04c-b06ebf5f6a21",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ist w ein Wort, so ist w<sup>n</sup>&nbsp;definiert durch",
+                                "w<sup>0</sup>&nbsp;= e und w<sup>n+1</sup> = ww<sup>n</sup>. Bsp: (ab)<sup>3</sup> = ababab"
+                            ],
+                            "guid": "e8pbm-2)L.",
+                            "note_model_uuid": "21c68b3f-da24-11ed-b04c-b06ebf5f6a21",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ist die Menge aller Wörter im Duden eine formale Sprache?",
+                                "Ja"
+                            ],
+                            "guid": "J=Lwa8,ww8",
+                            "note_model_uuid": "21c68b3f-da24-11ed-b04c-b06ebf5f6a21",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ist die Menge der deutschen Sätze eine formale Sprache?",
+                                "Nein"
+                            ],
+                            "guid": "hG17*hgorz",
+                            "note_model_uuid": "21c68b3f-da24-11ed-b04c-b06ebf5f6a21",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "20cdacd545184464ba604c2f14c15f6f-oa-3",
                                 "",
                                 "<img src=\"tmp9qha6mp_.jpg\" />",
@@ -10830,7 +10841,7 @@
                             "__type__": "Deck",
                             "children": [],
                             "crowdanki_uuid": "16dcfbb6-dd6f-11ed-bb58-3b6d3ce90129",
-                            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                            "deck_config_uuid": "f7217d94-defc-11ed-9f30-d9757c61dd44",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
@@ -10847,7 +10858,7 @@
                             "__type__": "Deck",
                             "children": [],
                             "crowdanki_uuid": "16dd2c3a-dd6f-11ed-bb58-3b6d3ce90129",
-                            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                            "deck_config_uuid": "f721bcc8-defc-11ed-9f30-d9757c61dd44",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
@@ -10864,7 +10875,7 @@
                             "__type__": "Deck",
                             "children": [],
                             "crowdanki_uuid": "16dd5994-dd6f-11ed-bb58-3b6d3ce90129",
-                            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                            "deck_config_uuid": "f7220d4a-defc-11ed-9f30-d9757c61dd44",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
@@ -10881,7 +10892,7 @@
                             "__type__": "Deck",
                             "children": [],
                             "crowdanki_uuid": "16dd8bd0-dd6f-11ed-bb58-3b6d3ce90129",
-                            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                            "deck_config_uuid": "f7224b02-defc-11ed-9f30-d9757c61dd44",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
@@ -10898,7 +10909,7 @@
                             "__type__": "Deck",
                             "children": [],
                             "crowdanki_uuid": "16ddbc5e-dd6f-11ed-bb58-3b6d3ce90129",
-                            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                            "deck_config_uuid": "f72284c8-defc-11ed-9f30-d9757c61dd44",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
@@ -10915,7 +10926,7 @@
                             "__type__": "Deck",
                             "children": [],
                             "crowdanki_uuid": "16dde9f4-dd6f-11ed-bb58-3b6d3ce90129",
-                            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                            "deck_config_uuid": "f722bce0-defc-11ed-9f30-d9757c61dd44",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
@@ -10932,7 +10943,7 @@
                             "__type__": "Deck",
                             "children": [],
                             "crowdanki_uuid": "16de1aa0-dd6f-11ed-bb58-3b6d3ce90129",
-                            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                            "deck_config_uuid": "f722ed78-defc-11ed-9f30-d9757c61dd44",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
@@ -10949,7 +10960,7 @@
                             "__type__": "Deck",
                             "children": [],
                             "crowdanki_uuid": "16de464c-dd6f-11ed-bb58-3b6d3ce90129",
-                            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                            "deck_config_uuid": "f7231a14-defc-11ed-9f30-d9757c61dd44",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
@@ -10966,7 +10977,7 @@
                             "__type__": "Deck",
                             "children": [],
                             "crowdanki_uuid": "16de71ee-dd6f-11ed-bb58-3b6d3ce90129",
-                            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                            "deck_config_uuid": "f7234232-defc-11ed-9f30-d9757c61dd44",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
@@ -11163,7 +11174,7 @@
                             "__type__": "Deck",
                             "children": [],
                             "crowdanki_uuid": "16ded49a-dd6f-11ed-bb58-3b6d3ce90129",
-                            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                            "deck_config_uuid": "f7239818-defc-11ed-9f30-d9757c61dd44",
                             "desc": "",
                             "dyn": 0,
                             "extendNew": 0,
@@ -12111,7 +12122,7 @@
                         }
                     ],
                     "crowdanki_uuid": "16db1ce2-dd6f-11ed-bb58-3b6d3ce90129",
-                    "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+                    "deck_config_uuid": "f71f9d1c-defc-11ed-9f30-d9757c61dd44",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -14686,7 +14697,7 @@
                 }
             ],
             "crowdanki_uuid": "16d8c5d2-dd6f-11ed-bb58-3b6d3ce90129",
-            "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+            "deck_config_uuid": "f71e1f1e-defc-11ed-9f30-d9757c61dd44",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -14701,13 +14712,13 @@
         }
     ],
     "crowdanki_uuid": "21c63d5b-da24-11ed-92f2-b06ebf5f6a21",
-    "deck_config_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+    "deck_config_uuid": "f712a49a-defc-11ed-9f30-d9757c61dd44",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
             "buryInterdayLearning": false,
-            "crowdanki_uuid": "21c68b46-da24-11ed-8d65-b06ebf5f6a21",
+            "crowdanki_uuid": "f712a49a-defc-11ed-9f30-d9757c61dd44",
             "dyn": false,
             "interdayLearningMix": 1,
             "lapse": {
@@ -14722,7 +14733,7 @@
                 "mult": 0.2
             },
             "maxTaken": 60,
-            "name": "Default",
+            "name": "Stufe 3",
             "new": {
                 "bury": false,
                 "delays": [
@@ -14738,8 +14749,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 50,
-                "separate": true
+                "perDay": 30
             },
             "newGatherPriority": 0,
             "newMix": 1,
@@ -14749,15 +14759,2080 @@
             "rev": {
                 "bury": false,
                 "ease4": 1.5,
-                "fuzz": 0.05,
                 "hardFactor": 0.85,
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
-                "minSpace": 1,
-                "perDay": 200
+                "perDay": 50
             },
-            "reviewOrder": 2,
-            "timer": 0
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f713424c-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f7136eb6-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f713be20-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f713f0b6-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f7142130-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f71463ca-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f71499b2-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f714cf36-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f714f920-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f715463c-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f7157422-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f7159d08-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f715c580-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f715ed94-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f716186e-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f71646c2-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f7167804-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f716f5b8-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f71724d4-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f71811e6-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f718cc44-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f719916a-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f71a9448-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f71bd10a-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f71c7402-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f71cac60-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f71e1f1e-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f71e5952-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f71f9d1c-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f7217d94-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f721bcc8-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f7220d4a-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f7224b02-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f72284c8-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f722bce0-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f722ed78-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f7231a14-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f7234232-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "f7239818-defc-11ed-9f30-d9757c61dd44",
+            "dyn": false,
+            "interdayLearningMix": 1,
+            "lapse": {
+                "delays": [
+                    1.0,
+                    10.0,
+                    35.0
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.2
+            },
+            "maxTaken": 60,
+            "name": "Stufe 3",
+            "new": {
+                "bury": false,
+                "delays": [
+                    0.25,
+                    5.0,
+                    25.0,
+                    1440.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    3,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30
+            },
+            "newGatherPriority": 0,
+            "newMix": 1,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 1,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.5,
+                "hardFactor": 0.85,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 1,
+            "timer": 1
         }
     ],
     "desc": "",
