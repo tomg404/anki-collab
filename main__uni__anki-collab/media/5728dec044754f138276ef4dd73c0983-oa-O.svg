@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="692">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="5728dec044754f138276ef4dd73c0983-oa-1" height="54.73684" width="470.52632" y="114.31575" x="353.68421" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="5728dec044754f138276ef4dd73c0983-oa-2" height="60" width="128.42105" y="254.31575" x="717.89474" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <g id="5728dec044754f138276ef4dd73c0983-oa-3">
+   <text transform="matrix(1.445371866226196,0,0,1.5201691389083862,-51.62687118852591,-289.6974609295212) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="501.68417" x="114.73684" stroke-width="0" fill="#000000">Heisst:</text>
+   <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="507.99996" x="152.63158" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Jedes Polynom von Grad n</text>
+   <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="535.36838" x="138.94737" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">besitzt auch n Nullstellen</text>
+  </g>
+  <rect id="5728dec044754f138276ef4dd73c0983-oa-4" height="63.15789" width="302.10526" y="490.10522" x="-5.26316" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#000000"/>
+ </g>
+</svg>

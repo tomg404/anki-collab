@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="692">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  
+  
+  <g id="5728dec044754f138276ef4dd73c0983-oa-3" class="qshape">
+   <text transform="matrix(1.445371866226196,0,0,1.5201691389083862,-51.62687118852591,-289.6974609295212) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="501.68417" x="114.73684" stroke-width="0" fill="#000000">Heisst:</text>
+   <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="507.99996" x="152.63158" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Jedes Polynom von Grad n</text>
+   <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="535.36838" x="138.94737" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">besitzt auch n Nullstellen</text>
+  </g>
+  
+ </g>
+</svg>
